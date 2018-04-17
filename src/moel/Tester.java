@@ -23,7 +23,8 @@ public class Tester extends JPanel {
 	}
 	
 	public void paint(Graphics g) {
-	      g.fillRect (5, 15, 50, 75);   
+	      g.fillRect (5, 15, 50, 75);
+	      //This is a dummy line
 	   }
 
 }

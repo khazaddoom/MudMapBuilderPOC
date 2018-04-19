@@ -1,4 +1,4 @@
-package moel;
+package model;
 
 import java.awt.Graphics;
 
